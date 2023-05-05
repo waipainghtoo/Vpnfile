@@ -1,0 +1,29 @@
+
+{
+// 
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/waipainghtoo/Vpnfile/raw/main/thai4g100day.ovpn.zip" ,
+"Changelog":"
+ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
+
+အသုံးပြုနိုင်သောဆင်းကဒ်
+🔰DTAC NOPRO🔰
+🛑TRUE NOPRO 🛑
+💡AIS PLAY💡
+🇸🇬Add SG 10 File
+🇱🇷Add US 20 File
+
+Server by 🇲🇲Myo Min Tun🇲🇲
+",
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
