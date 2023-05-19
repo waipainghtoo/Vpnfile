@@ -1,29 +1,59 @@
+{
+
+   "files": [    
 
 {
-// 
-"Version":"1.1",
-//link for server update
-"Url":"https://github.com/waipainghtoo/Vpnfile/raw/main/thai4g100day.ovpn.zip" ,
-"Changelog":"
-ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
 
-အသုံးပြုနိုင်သောဆင်းကဒ်
-🔰DTAC NOPRO🔰
-🛑TRUE NOPRO 🛑
-💡AIS PLAY💡
-🇸🇬Add SG 10 File
-🇱🇷Add US 20 File
+         "name": "DTAC-NOPRO-VIP",
 
-Server by 🇲🇲Myo Min Tun🇲🇲
-",
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+         "url": "https://github.com/waipainghtoo/Vpnfile/raw/main/TH-freeday-file1.zip"
+
+      },
+
+{
+
+         "name": "TH-DTAC-NOPRO-VIP",
+
+         "url": "https://github.com/waipainghtoo/Vpnfile/raw/main/TH-freeday-file1.zip"
+
+      },
+
+{
+
+         "name": "TRUE-NOPRO-VIP",
+
+         "url": "https://github.com/waipainghtoo/Vpnfile/raw/main/TH-freeday-file1.zip"
+
+      },
+
+{
+
+         "name": "TH-TRUE-NOPRO-VIP",
+
+         "url": "https://github.com/waipainghtoo/Vpnfile/raw/main/TH-freeday-file1.zip"
+
+      }
+
+   ],
+
+"message":"
+
+🔥DTAC Nopro🔥
+
+🔥TRUE Nopro🔥
+
+\n\n•Vipအကောင့် တစ်လ40ဘတ်ြဖင့်လာရောက်ဝယ်ယူနိုင်ပါတယ်ဗျာ့😊\n•Update 17-05-2022\n\n•Config by Ko Ko",
+
+"title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
+
+   "version":2
+
 }
+
+
+
+ 
+ 
+
+
+
